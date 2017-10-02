@@ -1,0 +1,6 @@
+{
+  "name": "ember-demo",
+  "dependencies": {
+    "bourbon": "4.2.6"
+  }
+}
